@@ -1,3 +1,4 @@
 .tmp.driveupload/
 .ipynb_checkpoints/
 data/
+.claude/
