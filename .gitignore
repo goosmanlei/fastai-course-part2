@@ -1,8 +1,8 @@
 .sw[op]
+.claude/settings.local.json
 .tmp.driveupload/
 .tmp.drivedownload/
 .ipynb_checkpoints/
 data/
-.claude/
 course22p2/
 fastbook/
