@@ -1,4 +1,7 @@
+.sw[op]
 .tmp.driveupload/
 .ipynb_checkpoints/
 data/
 .claude/
+course22p2/
+fastbook/
