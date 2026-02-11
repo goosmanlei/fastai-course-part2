@@ -4,15 +4,17 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Personal study repository for fast.ai 2022-23 Course Part 2: "From Deep Learning Foundations to Stable Diffusion." The course progressively builds **miniai**, a minimal deep learning library, from scratch in Jupyter notebooks.
+Personal study repository for fast.ai "Practical Deep Learning for Coders" Course Part 2: "From Deep Learning Foundations to Stable Diffusion." The course progressively builds **miniai**, a minimal deep learning library, from scratch in Jupyter notebooks.
 
 ## Repository Structure
 
-- **lesson-09/ through lesson-25/**: Personal study notebooks for each lesson
-- **course22p2/**: Official course materials including the miniai library (gitignored, reference only)
-  - **course22p2/nbs/**: Numbered source notebooks (01_matmul through 28_diffusion)
-  - **course22p2/miniai/**: Python library auto-generated from notebooks via nbdev
-- **fastbook/**: Fast.ai textbook (gitignored, reference only)
+- **fastbook/**: Course textbook (reference, gitignored)
+- **course22p2/**: Lecture notebooks and miniai library source (reference, gitignored)
+  - **nbs/**: Numbered lecture notebooks (01_matmul through 28_diffusion)
+  - **miniai/**: Python library auto-generated from notebooks via nbdev
+- **lesson-xx/**: Per-lesson working directories containing:
+  - Lecture notebooks copied from course22p2/nbs/ for hands-on study
+  - Practice and note notebooks (e.g. `mynote.ipynb`) created during learning
 
 ## Key Commands
 
