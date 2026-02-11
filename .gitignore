@@ -1,5 +1,6 @@
 .sw[op]
 .tmp.driveupload/
+.tmp.drivedownload/
 .ipynb_checkpoints/
 data/
 .claude/
