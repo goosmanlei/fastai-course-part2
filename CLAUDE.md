@@ -6,6 +6,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Personal study repository for fast.ai "Practical Deep Learning for Coders" Course Part 2: "From Deep Learning Foundations to Stable Diffusion." The course progressively builds **miniai**, a minimal deep learning library, from scratch in Jupyter notebooks.
 
+## Development Environment
+
+**IMPORTANT**: Always use the virtual environment located at `~/venv` for all Python operations in this workspace:
+- Python commands: `~/venv/bin/python`
+- Pip commands: `~/venv/bin/pip`
+
+This ensures correct dependencies and environment isolation for the fast.ai course work.
+
 ## Repository Structure
 
 - **fastbook/**: Course textbook (reference, gitignored)
